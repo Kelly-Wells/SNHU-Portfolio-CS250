@@ -1,4 +1,4 @@
-# SNHU-Portfoilo-
+# SNHU Portfolio - CS 250
 
 # CS 250 Reflection
 
